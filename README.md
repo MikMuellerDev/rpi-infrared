@@ -1,5 +1,7 @@
 # rpi-infrared
  A library used for interacting with infrared remote controls in go
+ 
+ # This repository has been transferred to the [Smarthome](https://github.com/smarthome-go/infrared) organization.
 
 ## Installation / Setup
 To install the library, execute the following command
